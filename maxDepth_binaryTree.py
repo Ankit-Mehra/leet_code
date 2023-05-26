@@ -28,3 +28,8 @@ sym_tree.right.right.right = TreeNode(5)
 
 
 print(maxDepth(sym_tree))
+
+print(7//2)
+
+temp = [-10,-3,0,5,9]
+print(temp[-5])
